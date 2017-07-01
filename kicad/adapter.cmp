@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /59580A9B;
+Reference = SD1;
+ValeurCmp = TF-HOLDERREVERSE;
+IdModule  = TF-PULL-REVERSE;
+EndCmp
+
+BeginCmp
+TimeStamp = /59580B63;
+Reference = TP1;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /59580C2B;
+Reference = TP2;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /59580CF3;
+Reference = TP3;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /59580DBB;
+Reference = TP4;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /59580E83;
+Reference = TP5;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /59580F4B;
+Reference = TP6;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /59581013;
+Reference = TP7;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /595810DB;
+Reference = TP8;
+ValeurCmp = TPTP20R;
+IdModule  = TP20R;
+EndCmp
+
+BeginCmp
+TimeStamp = /595811A3;
+Reference = U$1;
+ValeurCmp = CONNECTOR;
+IdModule  = CONNECTOR;
+EndCmp
+
+BeginCmp
+TimeStamp = /5958126B;
+Reference = VP_0;
+ValeurCmp = VPDEV0;
+IdModule  = VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /59581333;
+Reference = VP_1;
+ValeurCmp = VPDEV0;
+IdModule  = VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595813FB;
+Reference = VP_2;
+ValeurCmp = VPDEV0;
+IdModule  = VPAC0;
+EndCmp
+
+BeginCmp
+TimeStamp = /595814C3;
+Reference = VP_3;
+ValeurCmp = VPDEV0;
+IdModule  = VPAC0;
+EndCmp
+
+EndListe

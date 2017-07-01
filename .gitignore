@@ -1,1 +1,6 @@
+*-bak
+*-cache.lib
+*.bak
+*.bck
+_autosave*
 build

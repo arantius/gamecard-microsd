@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "adapter")(type Legacy)(uri "/home/osboxes/eagle/vita-gamecard-microsd/kicad/adapter.mod")(options "")(descr ""))
+)
