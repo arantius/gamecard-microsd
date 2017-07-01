@@ -1,6 +1,4 @@
-OPEN '~dummy~.lbr';
-CLOSE;
-OPEN '/home/osboxes/eagle/vita-gamecard-microsd/kicad/adapter.lbr';
+OPEN 'adapter.lbr';
 Layer 1 Top;
 Layer 16 Bottom;
 Layer 17 Pads;

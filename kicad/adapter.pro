@@ -1,4 +1,4 @@
-update=Mon 16 Feb 2015 06:37:24 AM PST
+update=7/1/2017 5:07:42 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -30,3 +30,4 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=adapter
+LibName2=C:/Program Files/KiCad/share/kicad/library/power
