@@ -4,3 +4,4 @@
 *.bck
 _autosave*
 build
+grb/*.zip
